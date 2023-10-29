@@ -44,7 +44,7 @@
 <h2 id="demonstracao"> 👀 Demonstração </h2>
 
 <p>No link abaixo você pode ver a página no ar e rodar seus próprios testes</p>
-<p>Alura Books API: <a href="epiled.github.io/alura-books-api/">epiled.github.io/alura-books-api/</a></p>
+<p>Alura Books API: <a href="https://epiled.github.io/alura-books-api/">epiled.github.io/alura-books-api/</a></p>
 
 ![desktop-alura-books-api (1)](https://github.com/Epiled/alura-books-api/assets/55258483/47c836d2-37f7-441a-8821-a5b1d8724061)
 
